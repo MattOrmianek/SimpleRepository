@@ -1,0 +1,30 @@
+body{
+	background: radial-gradient(circle, #AAA 45%, #FFF);
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font: bold 14px Arial, sans-serif;
+	align: center;
+}
+
+table{
+	
+	width: 230px;
+	height: auto;
+	margin: 100px auto;
+	padding: 1px 10px 3px ;
+	background: #646cf4;
+	background: linear-gradient(#646cf4, #343a9b);
+	border-radius: 8px;
+	box-shadow: 0px 10px #2D2386, 0px 10px 15px rgba(0, 0, 0, 0.9);
+}
+
+
+
+
+
+
+
+
+
+
