@@ -1,0 +1,48 @@
+body
+{
+	background-color: #359296;
+	margin: 0px !important;
+}
+input[type=text]
+{
+	width: 250px;
+	height: 30px;
+}
+input[type=text]:focus
+{
+	background-color: #7BC1C3;
+	box-shadow: 1px 1px 1px 3px #AAAAAA;
+	border: none;
+
+}
+
+input[type=submit]
+{
+	border: 2px outset black;
+
+}
+div.container
+{
+	width: 100%;
+}
+
+div.formularz
+{
+	width: 210px;
+	margin: auto;
+	margin-top: 2%;
+}
+
+div.xd
+{
+	width: 100px;
+	margin: auto;
+}
+
+div.border
+{
+	background-color: #8CD1D4;
+	padding: 10%;
+	margin-top: 10%;
+	 napsiz skrypt ktory w podanym ciagu bedzie wyszukiwal okreslony wyraz i oblicza ile razy ten wyraz wystapil w podanym ciagu
+}
